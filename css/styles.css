@@ -1,0 +1,34 @@
+/* COGS3 studyBuddy specific styles go here. */
+#title {
+    background-color: turquoise;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.navbar-link{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
